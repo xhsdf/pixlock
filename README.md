@@ -1,23 +1,23 @@
-#Screen locker script
+# Screen locker script
 
-###Features
+### Features
 -pixelated desktop  
 -lock image  
 -supports multiple monitors
 
 
-###Usage
+### Usage
 
 pixlock [file]
 
 
 If [file] is not specified, a default lock image will be used
 
-###Preview
+### Preview
 
 ![preview](https://github.com/xhsdf/pixlock/raw/master/preview.png)
 
-###Requirements
+### Requirements
 -scrot  
 -imagemagick (convert + identify)  
 -i3lock
